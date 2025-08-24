@@ -15,13 +15,6 @@ It allows an **Admin** to log in, manage **Agents**, and upload a **Contacts CSV
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard Preview
-![Dashboard](C:\Users\ithis\OneDrive\Pictures\Screenshots=true)
-
-### Agent Distribution
-![Distribution](https://github.com/sharad641/mern-machine-test/blob/main/client/photos/2.jpg?raw=true)
 
 ---
 
