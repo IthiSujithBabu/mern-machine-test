@@ -13,7 +13,6 @@ It allows an **Admin** to log in, manage **Agents**, and upload a **Contacts CSV
 ✅ Data stored in **MongoDB**  
 ✅ Clean React frontend with **JWT-protected routes**  
 
----
 
 
 ---
