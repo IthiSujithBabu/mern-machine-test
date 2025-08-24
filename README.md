@@ -18,7 +18,7 @@ It allows an **Admin** to log in, manage **Agents**, and upload a **Contacts CSV
 ## 📸 Screenshots
 
 ### Dashboard Preview
-![Dashboard](https://github.com/sharad641/mern-machine-test/blob/main/client/photos/1.jpg?raw=true)
+![Dashboard](C:\Users\ithis\OneDrive\Pictures\Screenshots=true)
 
 ### Agent Distribution
 ![Distribution](https://github.com/sharad641/mern-machine-test/blob/main/client/photos/2.jpg?raw=true)
@@ -103,7 +103,7 @@ Code is modular and commented for readability.
 
 👨‍💻 Author
 
-Made by Devdas ✨
+Made by Ithi Sujith Babu ✨
 
 ---
 
